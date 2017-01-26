@@ -1,0 +1,8 @@
+nombre_1;DNI_1;dirección_1;teléfono_1;e-mail_1;saldo_1
+Follon;54023928x;Guadiana,9;913519867;isa.folon@gmail.com;15.0
+Garcia;1234567c;Alcala,12;111555888;c.garcia@hop.com;20.0
+Emilio7894561V
+
+Emilio,7894561V
+Emilio,7894561V
+Emilio,7894561V

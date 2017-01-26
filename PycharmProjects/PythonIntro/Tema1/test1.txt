@@ -1,0 +1,3 @@
+        1 agatggcggc gctgaggggt cttgggggct ctaggccggc cacctactgg tttgcagcgg
+       61 agacgacgca tggggcctgc gcaataggag tacgctgcct gggaggcgtg actagaagcg
+     2461 aaaaaaaaaa aaaaaaaaaa aaaaaaa
