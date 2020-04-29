@@ -1,2 +1,2 @@
 # first
-First repository
+My first repository for tests.
